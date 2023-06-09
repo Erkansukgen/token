@@ -9,7 +9,7 @@
   "author": "FirstBlood.io team",
   "license": "MIT",
   "dependencies": {
-    "assert": "^1.4.1",
+    "assert": "^2.0.0",
     "async": "^2.0.1",
     "bignumber": "^1.1.0",
     "bignumber.js": "^2.4.0",
